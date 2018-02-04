@@ -1,3 +1,4 @@
+kevin zhou,kevin gates
 I have been working for over 13 years development experience.
 My personality is young,energetic with strong career ambition,positive with bright mind,
 mature, dynamic and honest,a stable personality and high sense of responsibility,

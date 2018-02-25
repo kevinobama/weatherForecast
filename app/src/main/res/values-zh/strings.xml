@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Forecastie</string>
+    <string name="app_name">小周全球天气预报</string>
 
     <string name="action_search">搜索</string>
     <string name="action_refresh">更新</string>
@@ -79,4 +79,7 @@
     <!-- 1: city; 2: country; 3: wind; 4: speed units; 5: pressure; 6: pressure units; 7: humidity -->
     <string name="dash_clock_expanded_body">%1$s, %2$s\n风力: %3$s %4$s\n气压: %5$s %6$s\n湿度: %7$s %%\n</string>
 
+    <string name="author_introduction">zhou wensheng,java,php,C#,rubyonRails,mysql,centos7,nginx.
+                My phone: 13501805331,17717857782
+                QQ and wechat: 495702491</string>
 </resources>

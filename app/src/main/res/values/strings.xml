@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Forecastie</string>
+    <string name="app_name">Kevin Global Forecast</string>
 
     <string name="action_search">Search</string>
     <string name="action_refresh">Refresh</string>
@@ -135,4 +135,9 @@
     <string name="rain">Rain</string>
     <string name="temperature">Temperature</string>
     <string name="action_graphs">Graphs</string>
+    <string name="author_introduction">My name is kevin Zhou(周文圣),I come from Jiangxi province,China.I have been working in shanghai for 13 years,I am full-stack developer,
+                I do android java,php,C#,rubyonRails,mysql,centos7,nginx.
+                feel free to call me if you have any website or app project.
+                My phone is 13501805331,17717857782
+                QQ and wechat(the same): 495702491</string>
 </resources>

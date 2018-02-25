@@ -265,11 +265,12 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         AlertDialog.Builder alert = new AlertDialog.Builder(this);
         alert.setTitle("天气预报－－周文圣");
         final WebView webView = new WebView(this);
-        String about = "My name is kevin Zhou(周文圣),I come from Jiangxi province,China.I have been working in shanghai for 13 years,I am full-stack developer," +
-                "I do android java,php,C#,rubyonRails,mysql,centos7,nginx." +
-                "feel free to call me if you have any website or app project." +
-                "My phone is 13501805331,17717857782" +
-                "QQ and wechat(the same): 495702491";
+//        String about = "My name is kevin Zhou(周文圣),I come from Jiangxi province,China.I have been working in shanghai for 13 years,I am full-stack developer," +
+//                "I do android java,php,C#,rubyonRails,mysql,centos7,nginx." +
+//                "feel free to call me if you have any website or app project." +
+//                "My phone is 13501805331,17717857782" +
+//                "QQ and wechat(the same): 495702491";
+        String about = this.getString(R.string.author_introduction);
 
         TypedArray ta = obtainStyledAttributes(new int[]{android.R.attr.textColorPrimary, R.attr.colorAccent});
         String textColor = String.format("#%06X", (0xFFFFFF & ta.getColor(0, Color.BLACK)));

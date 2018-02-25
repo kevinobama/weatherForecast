@@ -10,3 +10,6 @@ Development:Object-oriented Design(OOD),Yii,Laravel,Zend framework,
 Symfony,wordpress,drupal,UML,OOA,OOP,design patterns,git,magento.
 Personal GitHub: https://github.com/kevinobama
 https://openweathermap.org/
+
+API
+https://api.openweathermap.org/data/2.5/weather?q='.city.'&&appid=
